@@ -209,7 +209,7 @@ Enter root domain name</sub>
 Click "Next" until installation</sub>
 <br />
 <br />
-<b>[Adding Administrator Users to Active Directory]</b>
+<b>[Adding Administrative Users to Active Directory]</b>
 <br />
 <br/>
 <img src="https://i.imgur.com/DBSC5xh.png" width=50% height=50%>
