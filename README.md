@@ -1,11 +1,10 @@
 <h1>Windows Server 2019 Domain Controller</h1>
 
 <h2>Description</h2>
-<p>
+
 Step-by-step process of installing and setting up Windows Server 2019 as a domain controller, including installing Active Directory Domain Services, network adapter configuration, manually adding users to Active Directory, adding users to domain groups, and configuring routing and DHCP.  Using Oracle VirtualBox for virtualization, including the extension pack for disk encryption.
-<br />
-</p>
-<sub><b>**This repository assumes the reader is already familiar with virtualization software.</b></sub>
+
+<sub><b>**This repository assumes familiarization with virtualization software</b></sub>
 <br />
 <br />
 <p align="center">
