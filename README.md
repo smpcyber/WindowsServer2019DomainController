@@ -1,4 +1,4 @@
-<h1>Windows Server 2019 Domain Controller - WIP</h1>
+<h1>Windows Server 2019 Domain Controller</h1>
 
 <h2>Description</h2>
 <p>
